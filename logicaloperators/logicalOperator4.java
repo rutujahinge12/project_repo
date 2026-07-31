@@ -1,0 +1,22 @@
+package day8;
+
+import java.util.Scanner;
+
+public class logicalOperator4 {
+public static void main(String[] args) {	
+	Scanner sc=new Scanner(System.in);
+	System.out.println("Enter number");						//45
+	int n =sc.nextInt();	
+    int sum=0;
+    int rem;	
+
+        while(n>0)
+        {
+            n
+        	rem=n%10;
+        	sum=sum+rem;   //sum+=rem;
+        	n=n/10;
+        }
+    System.out.println("Sum of digits: " + sum);
+}
+}

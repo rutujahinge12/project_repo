@@ -1,0 +1,50 @@
+10-7-2026
+
+Latex Overleaf = This is used for creating the resume.
+
+
+--------------------------------------------------------------
+20/07/2026
+
+Time complexity
+
+asymptotic notation -->Big O(Worst case)O (n),
+flag variable: set or unset to the variable
+--------------------------------------------------------------
+
+21-7-2026
+
+Github-->
+search for GitHub.com
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/USERNAME/REPOSITORY.git
+git branch -M main
+git push -u origin main
+
+
+
+to terminate the function we use return.
+to come out of the loop we use break.
+
+----------------------------------------------------------------
+24-7-2026
+pop ---->   c                    oop c++
+1.problem solving             1.data security and problem solving
+not data security             
+
+
+OOP encapsulation ,abstract, encapsulation, polymorphism.
+
+----------------------------------------------------------------
+29/07/26
+
+Leetcode/hackerrank
+
+----------------------------------------------------------------
+
+30-7-2026
+
+
+
